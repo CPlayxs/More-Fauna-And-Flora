@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Bullring",
+		"requiredNearbyImprovedResources": ["Bulls"],
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	}
+]

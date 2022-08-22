@@ -37,7 +37,7 @@
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Forest", "Jungle"],
 		"gold": 1,
-		"improvement": "Camp", //exclusive improvement soon!
+		"improvement": "Aviary",
 		"improvementStats": {"gold": 1},
 	},
 	{
