@@ -1,306 +1,383 @@
 
 game.png
-size: 2048, 128
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+ResourceIcons/Bulls
+  rotate: false
+  xy: 4, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Capybara
+  rotate: false
+  xy: 1320, 812
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chickens
+  rotate: false
+  xy: 212, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Goats
+  rotate: false
+  xy: 1320, 604
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Guinea Pigs
+  rotate: false
+  xy: 4, 312
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+ResourceIcons/Llamas
+  rotate: false
+  xy: 1528, 812
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Octopus
+  rotate: false
+  xy: 420, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Parrots
+  rotate: false
+  xy: 1528, 604
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pigs
+  rotate: false
+  xy: 1736, 812
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Shrimps
+  rotate: false
+  xy: 1736, 604
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Turkey
+  rotate: false
+  xy: 712, 412
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Bull
   rotate: false
-  xy: 796, 32
+  xy: 712, 312
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Bulls+Pasture
   rotate: false
-  xy: 868, 96
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Capybara
   rotate: false
-  xy: 908, 96
+  xy: 700, 276
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Capybara+Pasture
   rotate: false
-  xy: 948, 92
+  xy: 1944, 788
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Chickens
   rotate: false
-  xy: 988, 96
+  xy: 1000, 376
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Chickens+Pasture
   rotate: false
-  xy: 1028, 96
+  xy: 292, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Goats
   rotate: false
-  xy: 1068, 96
+  xy: 1464, 440
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Goats+Pasture
   rotate: false
-  xy: 1108, 96
+  xy: 1536, 504
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Guinea Pigs
   rotate: false
-  xy: 1148, 96
+  xy: 1608, 568
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Guinea Pigs+Pasture
   rotate: false
-  xy: 1188, 96
+  xy: 752, 312
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas
   rotate: false
-  xy: 1228, 96
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Llamas+Pasture
   rotate: false
-  xy: 1268, 96
+  xy: 700, 240
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Octopus
   rotate: false
-  xy: 1308, 92
+  xy: 740, 272
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Parrots
   rotate: false
-  xy: 1348, 96
+  xy: 1944, 752
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Parrots+Camp
   rotate: false
-  xy: 1388, 96
+  xy: 1040, 376
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pigs
   rotate: false
-  xy: 1428, 96
+  xy: 332, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pigs+Camp
   rotate: false
-  xy: 1468, 96
+  xy: 1648, 568
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Shrimps
   rotate: false
-  xy: 1508, 92
+  xy: 700, 200
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Turkey
   rotate: false
-  xy: 1548, 96
+  xy: 792, 312
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Turkey+Pasture
   rotate: false
-  xy: 1588, 96
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Bulls
   rotate: false
-  xy: 4, 68
+  xy: 712, 348
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Bulls+pasture
   rotate: false
-  xy: 4, 4
+  xy: 4, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cabybara
   rotate: false
-  xy: 76, 68
+  xy: 1320, 540
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cabybara1
   rotate: false
-  xy: 76, 4
+  xy: 628, 248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Capybara+Pasture
   rotate: false
-  xy: 148, 68
+  xy: 1944, 956
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Capybara+Pasture2
   rotate: false
-  xy: 148, 4
+  xy: 784, 348
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Capybara+Pasture3
   rotate: false
-  xy: 220, 68
+  xy: 76, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Chickens
   rotate: false
-  xy: 220, 4
+  xy: 1320, 476
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Chickens+Pasture
   rotate: false
-  xy: 292, 68
+  xy: 1392, 540
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Goats
   rotate: false
-  xy: 292, 4
+  xy: 628, 184
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Goats+Pasture
   rotate: false
-  xy: 364, 68
+  xy: 1944, 892
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Guinea Pigs
   rotate: false
-  xy: 364, 4
+  xy: 856, 348
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Guinea Pigs+Pasture
   rotate: false
-  xy: 436, 68
+  xy: 148, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas
   rotate: false
-  xy: 436, 4
+  xy: 1320, 412
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas+Pasture
   rotate: false
-  xy: 508, 68
+  xy: 1392, 476
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Octopus
   rotate: false
-  xy: 508, 4
+  xy: 1464, 540
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Parrots
   rotate: false
-  xy: 580, 68
+  xy: 628, 120
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Parrots+Camp
   rotate: false
-  xy: 580, 4
+  xy: 1944, 828
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pigs
   rotate: false
-  xy: 652, 68
+  xy: 928, 348
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pigs+Camp
   rotate: false
-  xy: 652, 4
+  xy: 220, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Shrimps
   rotate: false
-  xy: 724, 68
+  xy: 1392, 412
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Turkeys
   rotate: false
-  xy: 724, 4
+  xy: 1464, 476
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Turkeys+Pasture
   rotate: false
-  xy: 796, 68
+  xy: 1536, 540
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
