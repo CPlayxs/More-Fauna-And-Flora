@@ -88,6 +88,13 @@ TileSets/FantasyHex/Tiles/Bull
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Bulls
+  rotate: false
+  xy: 712, 312
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Bulls+Pasture
   rotate: false
   xy: 4, 4
@@ -179,7 +186,7 @@ TileSets/FantasyHex/Tiles/Parrots
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Parrots+Camp
+TileSets/FantasyHex/Tiles/Parrots+Aviary
   rotate: false
   xy: 1040, 376
   size: 32, 28
@@ -340,7 +347,7 @@ TileSets/HexaRealm/Tiles/Parrots
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Parrots+Camp
+TileSets/HexaRealm/Tiles/Parrots+Aviary
   rotate: false
   xy: 1944, 828
   size: 64, 56
