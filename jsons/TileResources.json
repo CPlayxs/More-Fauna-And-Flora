@@ -154,7 +154,7 @@
 		"improvementStats": {"food": 1, "gold": 1},
 	},
 		{
-		"name": "Spices",
+		"name": "Chilis",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Grassland", "Plains", "Forest"],
 		"food": 1,
