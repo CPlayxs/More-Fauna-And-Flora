@@ -21,7 +21,7 @@ And 9 plants:
 -Coconuts,
 -Oils,
 -Mango,
--Spices
+-Chilis
 
 TileSets for FantasyHex and Hexarealm
 
