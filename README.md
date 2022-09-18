@@ -10,7 +10,18 @@ This mod adds 11 animals:
 -Goats,
 -Shrimps,
 -Octopus,
-and Turkeys!
-I will add plants (the flora) soon!
+-Turkeys
+
+And 9 plants:
+-Corn,
+-Avocados, 
+-Apples,
+-Pumpkins,
+-Watermelons,
+-Coconuts,
+-Oils,
+-Mango,
+-Spices
+
 TileSets for FantasyHex and Hexarealm
 
