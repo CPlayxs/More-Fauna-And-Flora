@@ -81,14 +81,14 @@ ResourceIcons/Turkey
   orig: 600, 600
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Apple
+TileSets/FantasyHex/Tiles/Apples
   rotate: false
   xy: 712, 312
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Apple+Plantation
+TileSets/FantasyHex/Tiles/Apples+Plantation
   rotate: false
   xy: 4, 4
   size: 32, 28
@@ -354,14 +354,14 @@ TileSets/FantasyHex/Tiles/Watermelons+Plantation
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Apple
+TileSets/HexaRealm/Tiles/Apples
   rotate: false
   xy: 712, 348
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Apple+Plantation
+TileSets/HexaRealm/Tiles/Apples+Plantation
   rotate: false
   xy: 4, 40
   size: 64, 56
