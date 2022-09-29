@@ -1,4 +1,4 @@
-This mod uses icons from the Noun Project and other open source sites
+This mod uses icons from the Noun Project and other open source sites or Creative Commons icons 
 Capybaras from https://publicdomainvectors.org/en/free-clipart/Capybara-vector-clip-art/14650.html
 Pigs from https://commons.wikimedia.org/wiki/File:Pig_%281575%29_-_The_Noun_Project.svg
 Chickens from https://publicdomainvectors.org/en/free-clipart/Chicken/41625.html
@@ -11,3 +11,4 @@ Shrimps by Shann Aurelle Ripalda
 Octopus from https://freesvg.org/coloring-book-octopus-vector-image
 Turkeys from https://freesvg.org/a-turkey
 Bullring from Bull ring icons created by Freepik - Flaticon at https://www.flaticon.com/free-icons/bull-ring
+Corn from https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFrente_Regional_T%25C3%25BApac_(logo).svg&psig=AOvVaw2z1PYbWKhUYcTSSXIFxahy&ust=1664510079144000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCNicrrGNufoCFQAAAAAdAAAAABAD
