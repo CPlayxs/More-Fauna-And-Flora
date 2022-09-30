@@ -1,215 +1,705 @@
 
 game.png
-size: 2048, 128
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Capybara+Pasture2
+BuildingIcons/Bullring
   rotate: false
-  xy: 4, 68
-  size: 64, 56
-  orig: 64, 56
+  xy: 1320, 611
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Capybara+Pasture3
+ImprovementIcons/Aviary
   rotate: false
-  xy: 4, 4
-  size: 64, 56
-  orig: 64, 56
+  xy: 1320, 819
+  size: 200, 201
+  orig: 200, 201
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Chickens
+ResourceIcons/Apples
   rotate: false
-  xy: 76, 68
-  size: 64, 56
-  orig: 64, 56
+  xy: 4, 112
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Chickens+Pasture
+ResourceIcons/Avocados
   rotate: false
-  xy: 76, 4
-  size: 64, 56
-  orig: 64, 56
+  xy: 212, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bulls
+  rotate: false
+  xy: 1528, 820
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Capybara
+  rotate: false
+  xy: 420, 112
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chickens
+  rotate: false
+  xy: 1528, 612
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chilis
+  rotate: false
+  xy: 1736, 820
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coconuts
+  rotate: false
+  xy: 1736, 612
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Corn
+  rotate: false
+  xy: 1320, 403
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Goats
+  rotate: false
+  xy: 1528, 404
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Guinea Pigs
+  rotate: false
+  xy: 4, 320
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+ResourceIcons/Llamas
+  rotate: false
+  xy: 1736, 404
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mango
+  rotate: false
+  xy: 712, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Octopus
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oils
+  rotate: false
+  xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Parrots
+  rotate: false
+  xy: 920, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pigs
+  rotate: false
+  xy: 1044, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pumpkins
+  rotate: false
+  xy: 1528, 195
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+ResourceIcons/Shrimps
+  rotate: false
+  xy: 1736, 196
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Turkey
+  rotate: false
+  xy: 712, 420
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+ResourceIcons/Watermelons
+  rotate: false
+  xy: 1252, 195
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Apples
+  rotate: false
+  xy: 4, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Apples+Plantation
+  rotate: false
+  xy: 628, 220
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Avocados
+  rotate: false
+  xy: 1200, 384
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Avocados+Plantation
+  rotate: false
+  xy: 1252, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bull
+  rotate: false
+  xy: 580, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bulls
+  rotate: false
+  xy: 580, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bulls+Pasture
+  rotate: false
+  xy: 1460, 367
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Capybara
+  rotate: false
+  xy: 1684, 159
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Capybara+Pasture
+  rotate: false
+  xy: 1200, 344
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chickens
+  rotate: false
+  xy: 44, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chickens+Pasture
+  rotate: false
+  xy: 1292, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chilis
+  rotate: false
+  xy: 1460, 331
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Chilis
   rotate: false
-  xy: 1012, 96
+  xy: 1460, 331
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chilis+Plantation
+  rotate: false
+  xy: 1684, 123
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Chilis+Plantation
   rotate: false
-  xy: 1012, 60
+  xy: 1684, 123
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Coconuts
+  rotate: false
+  xy: 1200, 308
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coconuts+Plantation
+  rotate: false
+  xy: 84, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Corn
+  rotate: false
+  xy: 1332, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Corn+Plantation
+  rotate: false
+  xy: 1460, 295
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Goats
+  rotate: false
+  xy: 1684, 87
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Goats+Pasture
+  rotate: false
+  xy: 1200, 272
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Guinea Pigs
+  rotate: false
+  xy: 124, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Guinea Pigs+Pasture
+  rotate: false
+  xy: 1372, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Llamas
+  rotate: false
+  xy: 1460, 259
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Llamas+Pasture
+  rotate: false
+  xy: 1200, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mango
+  rotate: false
+  xy: 164, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mango+Plantation
+  rotate: false
+  xy: 1412, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Octopus
+  rotate: false
+  xy: 1460, 219
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oils
+  rotate: false
+  xy: 204, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oils+Plantation
+  rotate: false
+  xy: 1452, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Parrots
+  rotate: false
+  xy: 244, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Parrots+Aviary
+  rotate: false
+  xy: 1492, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pigs
+  rotate: false
+  xy: 284, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pigs+Camp
+  rotate: false
+  xy: 1532, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pumpkins
+  rotate: false
+  xy: 324, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pumpkins+Plantation
+  rotate: false
+  xy: 1572, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shrimps
+  rotate: false
+  xy: 364, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Turkey
+  rotate: false
+  xy: 1612, 31
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Turkey+Pasture
+  rotate: false
+  xy: 404, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Watermelons
+  rotate: false
+  xy: 444, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Watermelons+Plantation
+  rotate: false
+  xy: 484, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Apples
+  rotate: false
+  xy: 1944, 964
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Apples+Plantation
+  rotate: false
+  xy: 4, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Avocados
+  rotate: false
+  xy: 628, 256
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Avocados+Plantation
+  rotate: false
+  xy: 1252, 131
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bulls
+  rotate: false
+  xy: 1128, 356
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bulls+pasture
+  rotate: false
+  xy: 1944, 900
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cabybara
+  rotate: false
+  xy: 76, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cabybara1
+  rotate: false
+  xy: 1252, 67
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture
+  rotate: false
+  xy: 1324, 131
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture2
+  rotate: false
+  xy: 1128, 292
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Capybara+Pasture3
+  rotate: false
+  xy: 1944, 836
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Chickens
+  rotate: false
+  xy: 148, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Chickens+Pasture
+  rotate: false
+  xy: 1324, 67
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Coconuts
   rotate: false
-  xy: 148, 68
+  xy: 1128, 228
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coconuts+Plantation
   rotate: false
-  xy: 148, 4
+  xy: 1944, 772
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Goats
   rotate: false
-  xy: 220, 68
+  xy: 220, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Goats+Pasture
   rotate: false
-  xy: 220, 4
+  xy: 1944, 708
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Guinea Pigs
   rotate: false
-  xy: 292, 68
+  xy: 292, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Guinea Pigs+Pasture
   rotate: false
-  xy: 292, 4
+  xy: 1944, 644
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas
   rotate: false
-  xy: 364, 68
+  xy: 364, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Llamas+Pasture
   rotate: false
-  xy: 364, 4
+  xy: 1944, 580
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mango
   rotate: false
-  xy: 436, 68
+  xy: 436, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mango+Plantation
   rotate: false
-  xy: 436, 4
+  xy: 1944, 516
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Octopus
   rotate: false
-  xy: 508, 68
+  xy: 508, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Oils
   rotate: false
-  xy: 508, 4
+  xy: 1944, 452
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Oils+Plantation
   rotate: false
-  xy: 580, 68
+  xy: 1944, 388
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Parrots
   rotate: false
-  xy: 580, 4
+  xy: 1944, 324
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Parrots+Aviary
   rotate: false
-  xy: 652, 68
+  xy: 1944, 260
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pigs
   rotate: false
-  xy: 652, 4
+  xy: 1944, 196
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pigs+Camp
   rotate: false
-  xy: 724, 68
+  xy: 1396, 131
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pumpkin
   rotate: false
-  xy: 724, 4
+  xy: 1396, 67
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pumpkins+Plantation
   rotate: false
-  xy: 796, 68
+  xy: 1468, 131
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Shrimps
   rotate: false
-  xy: 796, 4
+  xy: 1468, 67
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Turkeys
   rotate: false
-  xy: 868, 68
+  xy: 1540, 131
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Turkeys+Pasture
   rotate: false
-  xy: 868, 4
+  xy: 1540, 67
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Watermelons
   rotate: false
-  xy: 940, 68
+  xy: 1612, 131
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Watermelons+Plantation
   rotate: false
-  xy: 940, 4
+  xy: 1612, 67
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
