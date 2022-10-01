@@ -59,7 +59,7 @@
 	{
 		"name": "Goats",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hill",],
+		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"gold": 1, "food": 1},
@@ -136,7 +136,7 @@
 		"food": 1,
                 "uniques": ["Must be adjacent to [1] to [6] [Coast] tiles"],
 		"improvement": "Plantation",
-		"improvementStats": {"food": 2,},
+		"improvementStats": {"food": 2},
 	},
 	{
 		"name": "Oils",
