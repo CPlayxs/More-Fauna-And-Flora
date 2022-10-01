@@ -134,6 +134,7 @@
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Desert", "Jungle"],
 		"food": 1,
+                "uniques": ["Must be next to [Coast]"],
 		"improvement": "Plantation",
 		"improvementStats": {"food": 2,},
 	},
