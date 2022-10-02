@@ -131,10 +131,10 @@
 	},
 	{
 		"name": "Coconuts",
-		"resourceType": "Luxury",
+		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Desert", "Jungle"],
 		"food": 1,
-                "uniques": ["Must be adjacent to [1] to [6] [Coast] tiles"],
+                "uniques": ["Generated with weight [5] <in [Featureless] [Land] tiles> <with [1] to [6] neighboring [Coast] tiles>" ],
 		"improvement": "Plantation",
 		"improvementStats": {"food": 2},
 	},
