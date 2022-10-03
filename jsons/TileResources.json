@@ -134,7 +134,6 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Desert", "Jungle"],
 		"food": 1,
-                "uniques": ["Generated with weight [5] <in [Featureless] [Land] tiles> <with [1] to [6] neighboring [Coast] tiles>" ],
 		"improvement": "Plantation",
 		"improvementStats": {"food": 2},
 	},
