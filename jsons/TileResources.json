@@ -59,7 +59,7 @@
 	{
 		"name": "Goats",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hill",],
+		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"gold": 1, "food": 1},
@@ -131,11 +131,11 @@
 	},
 	{
 		"name": "Coconuts",
-		"resourceType": "Luxury",
+		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Desert", "Jungle"],
 		"food": 1,
 		"improvement": "Plantation",
-		"improvementStats": {"food": 2,},
+		"improvementStats": {"food": 2},
 	},
 	{
 		"name": "Oils",
