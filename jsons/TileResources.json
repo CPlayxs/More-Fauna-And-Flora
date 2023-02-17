@@ -132,10 +132,8 @@
 	{
 		"name": "Coconuts",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Desert", "Jungle"],
-		"food": 1,
-		"improvement": "Plantation",
-		"improvementStats": {"food": 2},
+		"terrainsCanBeFoundOn": ["Atoll", "Oasis"],
+		"food": 2,
 	},
 	{
 		"name": "Oils",
