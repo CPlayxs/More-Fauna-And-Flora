@@ -1,4 +1,4 @@
-[	
+[
 	// Fauna
 	{
 		"name": "Capybara",
@@ -134,6 +134,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Atoll", "Oasis"],
 		"food": 2,
+		"improvement": "Coconut recollection"
 	},
 	{
 		"name": "Oils",
